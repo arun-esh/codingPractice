@@ -38,11 +38,12 @@ class myLinkedList {
     // print the LinkedList
 
     public void printList() {
-        Node dummyNode = head;
+        Node currentNode = head;
         for (int i = 0; i < length; i++) {
-            if (dummyNode != null) {
-                System.out.print(dummyNode.data + " ");
+            if (currentNode != null) {
+                System.out.print(currentNode.data + " ");
             }
+            currentNode = currentNode.next;
             System.out.println();
         }
     }
