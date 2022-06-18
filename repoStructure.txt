@@ -1,31 +1,31 @@
 .
-├── README.md
-├── algorithms
-│   └── LinkedList
-│       ├── hackerRank
-│       │   ├── easy
-│       │   └── medium
-│       └── leetCode
-│           ├── easy
-│           └── medium
-├── dataStructure
-│   └── LinkedList
-│       ├── hackerRank
-│       │   ├── easy
-│       │   └── medium
-│       └── leetCode
-│           ├── easy
-│           └── medium
-├── practice
-│   └── LinkedList
-├── repoStructure.md
-└── repoStructure.txt
+├── ./README.md
+├── ./algorithms
+│   └── ./algorithms/LinkedList
+│       ├── ./algorithms/LinkedList/hackerRank
+│       │   ├── ./algorithms/LinkedList/hackerRank/easy
+│       │   └── ./algorithms/LinkedList/hackerRank/medium
+│       └── ./algorithms/LinkedList/leetCode
+│           ├── ./algorithms/LinkedList/leetCode/easy
+│           └── ./algorithms/LinkedList/leetCode/medium
+├── ./dataStructure
+│   └── ./dataStructure/LinkedList
+│       ├── ./dataStructure/LinkedList/hackerRank
+│       │   ├── ./dataStructure/LinkedList/hackerRank/easy
+│       │   │   ├── ./dataStructure/LinkedList/hackerRank/easy/InsertANodeAtTheTailOfALinkedList.java
+│       │   │   └── ./dataStructure/LinkedList/hackerRank/easy/PrintTheElementOfALinkedList.java
+│       │   └── ./dataStructure/LinkedList/hackerRank/medium
+│       └── ./dataStructure/LinkedList/leetCode
+│           ├── ./dataStructure/LinkedList/leetCode/easy
+│           │   └── ./dataStructure/LinkedList/leetCode/easy/problem-easy-237.java
+│           └── ./dataStructure/LinkedList/leetCode/medium
+├── ./img
+│   └── ./img/repoStructure.png
+├── ./practice
+│   └── ./practice/LinkedList
+│       ├── ./practice/LinkedList/Main.java
+│       └── ./practice/LinkedList/myLinkedList.java
+├── ./repoStructure.md
+└── ./repoStructure.txt
 
-18 directories, 3 files
-
-
-
-
-
-
-
+19 directories, 9 files
