@@ -33,7 +33,14 @@
 
 ## File Structure
 
-![repoStructure](img/repoStructure.png)
+Algorithms
+
+* LinkedList
+  * HackerRank
+    * Easy
+      * [https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/InsertANodeAtTheTailOfALinkedList.java](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/InsertANodeAtTheTailOfALinkedList.java)
+
+​	
 
 ```
 ├── https://github.com/arun-esh/codingPractice/blob/main/README.md
@@ -61,4 +68,8 @@
         ├── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList/Main.java
         └── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList/myLinkedList.java
 
+```
+
+```
+https://github.com/arun-esh/codingPractice/blob/main/algorithms/LinkedList
 ```
