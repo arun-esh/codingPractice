@@ -17,12 +17,11 @@
 │       │   └── medium
 │       └── leetCode
 │           ├── easy
-│           │   ├── InsertANodeAtTheTailOfALinkedList.java
-│           │   └── PrintTheElementOfALinkedList.java
+│           │   └── problem-easy-237.java
 │           └── medium
 ├── myLinkedList
 │   ├── Main.java
 │   └── myLinkedList.java
-└── result.txt
+└── repoStructure.md
 
-17 directories, 8 files
+17 directories, 7 files
