@@ -6,8 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-// public class Solution {
-public class InsertANodeAtTheTailOfALinkedList {
+public class Solution {
 
     static class SinglyLinkedListNode {
         public int data;
@@ -29,18 +28,22 @@ public class InsertANodeAtTheTailOfALinkedList {
       
     }
 
-    public static void printSinglyLinkedList(SinglyLinkedListNode node, String sep, BufferedWriter bufferedWriter) throws IOException {
-        while (node != null) {
-            bufferedWriter.write(String.valueOf(node.data));
+    public static void printSinglyLinkedList(SinglyLinkedListNode node) {
+        SinglyLinkedListNode currentNode = node;
+        while(currentNode != null){
+            System.out.print(currentNode.data + " ");
+            currentNode = currentNode.next;
+            
 
-            node = node.next;
-
-            if (node != null) {
-                bufferedWriter.write(sep);
-            }
         }
+       
+            System.out.println();
+        
     }
 
+
+
+    
     // Complete the insertNodeAtTail function below.
 
     /*
@@ -52,15 +55,32 @@ public class InsertANodeAtTheTailOfALinkedList {
      * }
      *
      */
+
+    /* SOLUTION STARTS */
     static SinglyLinkedListNode insertNodeAtTail(SinglyLinkedListNode head, int data) {
-
-
+        SinglyLinkedListNode currentNode = head;
+        SinglyLinkedListNode newNode = new SinglyLinkedListNode(data);
+        
+        
+        if(currentNode == null){
+            head = newNode;
+            return head;
+        }else{
+            while(currentNode.next != null){
+                currentNode = currentNode.next;
+            }
+            currentNode.next = newNode;
+        }
+        return head;
     }
+
+    /* SOLUTION ENDS */
+        
 
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) throws IOException {
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+        // BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
         SinglyLinkedList llist = new SinglyLinkedList();
 
@@ -78,10 +98,13 @@ public class InsertANodeAtTheTailOfALinkedList {
 
 
 
-        printSinglyLinkedList(llist.head, "\n", bufferedWriter);
-        bufferedWriter.newLine();
+        // printSinglyLinkedList(llist.head, "\n", bufferedWriter);
+        // bufferedWriter.newLine();
 
-        bufferedWriter.close();
+        // bufferedWriter.close();
+
+        System.out.println("--------------------");
+        printSinglyLinkedList(llist.head);
 
         scanner.close();
     }
