@@ -1,4 +1,3 @@
-.
 ├── https://github.com/arun-esh/codingPractice/blob/main/README.md
 ├── https://github.com/arun-esh/codingPractice/blob/main/algorithms
 │   └── https://github.com/arun-esh/codingPractice/blob/main/algorithms/LinkedList
@@ -19,13 +18,9 @@
 │           ├── https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/leetCode/easy
 │           │   └── https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/leetCode/easy/problem-easy-237.java
 │           └── https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/leetCode/medium
-├── https://github.com/arun-esh/codingPractice/blob/main/img
-│   └── https://github.com/arun-esh/codingPractice/blob/main/img/repoStructure.png
-├── https://github.com/arun-esh/codingPractice/blob/main/practice
-│   └── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList
-│       ├── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList/Main.java
-│       └── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList/myLinkedList.java
-├── https://github.com/arun-esh/codingPractice/blob/main/repoStructure.md
-└── https://github.com/arun-esh/codingPractice/blob/main/repoStructure.txt
+└── https://github.com/arun-esh/codingPractice/blob/main/practice
+    └── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList
+        ├── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList/Main.java
+        └── https://github.com/arun-esh/codingPractice/blob/main/practice/LinkedList/myLinkedList.java
 
-19 directories, 9 files
+18 directories, 6 files
