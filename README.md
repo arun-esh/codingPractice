@@ -8,6 +8,7 @@
        - LeetCode
           - [Easy](#leetcode-easy) 
           - [Medium](#leetcode-medium) 
+- [File Structure](#file-structure)
 
 # Data Structures
 
@@ -30,3 +31,6 @@
 
 
 
+## File Structure
+
+![repoStructure](img/repoStructure.png)
