@@ -18,8 +18,8 @@ class myLinkedList {
 
     public myLinkedList() {
         this.length = 0;
-        this.head = null;
-        this.tail = null;
+        // this.head = null;
+        // this.tail = null;
     }
 
     // push the element to the LinkedList
