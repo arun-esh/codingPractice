@@ -24,7 +24,7 @@ hs_err_pid*
 
 # user Custom
 
-./DS_Store
+.DS_Store
 algorithms/.DS_Store
 algorithms/LinkedList/.DS_Store
 algorithms/LinkedList/hackerRank/.DS_Store
