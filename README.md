@@ -1,34 +1,33 @@
-# Java Collections
+# Code Collections
 
-
+ - [Data Structures](#data-structures) 
+    - [LinkedList](#linkedlist) 
+       - [Easy](#easy) 
+       - [Medium](#medium) 
 
 ## Data Structures
 
-## LinkedList]
+## LinkedList
 
 ### Easy
 
-* Print the Elements of a Linked List 
+| Problem                                                      | Solution                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Print the Elements of a Linked List ](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | [**Link to Solution** ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/PrintTheElementOfALinkedList.java) |
+| [Insert a Node at the Tail of a Linked List ](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | [**Link to Solution** ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/InsertANodeAtTheTailOfALinkedList.java) |
 
-  * [Description](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) 
-  * [**Solution** ]https://github.com/arun-esh/java/blob/main/dataStructure/LinkedList/hackerRank/easy/PrintTheElementOfALinkedList.java)
 
-  
-
-* Insert a Node at the Tail of a Linked List
-
-  * [Description](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) 
-  * [**Solution** ](https://github.com/arun-esh/java/blob/main/dataStructure/LinkedList/hackerRank/easy/InsertANodeAtTheTailOfALinkedList.java)
 
 
 
 <!-- 
 
+[problemDescription](problemLink)  
 
-* Heading
-
-  * [Description](HACKERRANKLINK) 
-  * [**Github Link** ](GITHUBLINK)
+[**Link to Solution** ](https://github.com/arun-esh/java/blob/main/dataStructure/LinkedList/hackerRank/easy/PrintTheElementOfALinkedList.java)
 
 
  -->
+
+
+
