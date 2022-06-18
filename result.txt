@@ -1,0 +1,28 @@
+.
+├── README.md
+├── algorithms
+│   └── LinkedList
+│       ├── hackerRank
+│       │   ├── easy
+│       │   └── medium
+│       └── leetCode
+│           ├── easy
+│           └── medium
+├── dataStructure
+│   └── LinkedList
+│       ├── hackerRank
+│       │   ├── easy
+│       │   │   ├── InsertANodeAtTheTailOfALinkedList.java
+│       │   │   └── PrintTheElementOfALinkedList.java
+│       │   └── medium
+│       └── leetCode
+│           ├── easy
+│           │   ├── InsertANodeAtTheTailOfALinkedList.java
+│           │   └── PrintTheElementOfALinkedList.java
+│           └── medium
+├── myLinkedList
+│   ├── Main.java
+│   └── myLinkedList.java
+└── result.txt
+
+17 directories, 8 files
