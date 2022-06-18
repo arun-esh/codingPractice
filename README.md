@@ -2,10 +2,10 @@
 
  - [Data Structures](#data-structures) 
     - [LinkedList](#linkedlist) 
-       - [HackerRank](#hackerrank-easy) 
+       - HackerRank
           - [Easy](#hackerrank-easy) 
           - [Medium](#hacker-rank-medium) 
-       - [LeetCode](#leetcode) 
+       - LeetCode
           - [Easy](#leetcode-easy) 
           - [Medium](#leetcode-medium) 
 
@@ -13,9 +13,7 @@
 
 ## LinkedList
 
-## HackerRank
-
-### Easy
+## HackerRank Easy
 
 | Problem                                                      | Solution                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -24,14 +22,11 @@
 
 
 
-## LeetCode
-
-### Easy
+## LeetCode Easy
 
 | Index | Problem                                                      | Solution                                                     |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 237   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [**Link to Solution** ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/PrintTheElementOfALinkedList.java) |
-|       |                                                              |                                                              |
+| 237   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [**Link to Solution** ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/leetCode/easy/problem-easy-237.java) |
 
 
 
