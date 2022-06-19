@@ -8,7 +8,36 @@
        - LeetCode
           - [Easy](#leetcode-easy) 
           - [Medium](#leetcode-medium) 
-- [File Structure](#file-structure)
+
+```
+.
+├── README.md
+├── algorithms
+│   └── LinkedList
+│       ├── hackerRank
+│       │   ├── easy
+│       │   └── medium
+│       └── leetCode
+│           ├── easy
+│           └── medium
+├── dataStructure
+│   └── LinkedList
+│       ├── hackerRank
+│       │   ├── easy
+│       │   │   ├── InsertANodeAtTheTailOfALinkedList.java
+│       │   │   └── PrintTheElementOfALinkedList.java
+│       │   └── medium
+│       └── leetCode
+│           ├── easy
+│           │   └── problem-easy-237.java
+│           └── medium
+└── practice
+    └── LinkedList
+        ├── Main.java
+        └── myLinkedList.java
+
+18 directories, 6 files
+```
 
 ```
 .
@@ -58,45 +87,4 @@
 | Index | Problem                                                      | Solution                                                     |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 237   | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [**Link to Solution** ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/leetCode/easy/problem-easy-237.java) |
-
-
-
-## File Structure
-
-Algorithms
-
-* LinkedList
-  * HackerRank
-    * Easy
-      * [InsertANodeAtTheTailOfALinkedList.java](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/InsertANodeAtTheTailOfALinkedList.java)
-
-​	
-
-```
-.
-├── README.md
-├── algorithms
-│   └── LinkedList
-│       ├── hackerRank
-│       │   ├── easy
-│       │   └── medium
-│       └── leetCode
-│           ├── easy
-│           └── medium
-├── dataStructure
-│   └── LinkedList
-│       ├── hackerRank
-│       │   ├── easy
-│       │   │   ├── InsertANodeAtTheTailOfALinkedList.java
-│       │   │   └── PrintTheElementOfALinkedList.java
-│       │   └── medium
-│       └── leetCode
-│           ├── easy
-│           │   └── problem-easy-237.java
-│           └── medium
-└── practice
-    └── LinkedList
-        ├── Main.java
-        └── myLinkedList.java
-```
 
