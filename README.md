@@ -37,7 +37,6 @@
         ├── Main.java
         └── myLinkedList.java
 
-18 directories, 6 files
 ```
 
 # Data Structures
