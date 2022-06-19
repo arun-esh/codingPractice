@@ -9,6 +9,35 @@
           - [Easy](#leetcode-easy) 
           - [Medium](#leetcode-medium) 
 
+```
+.
+├── README.md
+├── algorithms
+│   └── LinkedList
+│       ├── hackerRank
+│       │   ├── easy
+│       │   └── medium
+│       └── leetCode
+│           ├── easy
+│           └── medium
+├── dataStructure
+│   └── LinkedList
+│       ├── hackerRank
+│       │   ├── easy
+│       │   │   ├── InsertANodeAtTheTailOfALinkedList.java
+│       │   │   └── PrintTheElementOfALinkedList.java
+│       │   └── medium
+│       └── leetCode
+│           ├── easy
+│           │   └── problem-easy-237.java
+│           └── medium
+└── practice
+    └── LinkedList
+        ├── Main.java
+        └── myLinkedList.java
+
+```
+
 # Data Structures
 
 ## LinkedList
