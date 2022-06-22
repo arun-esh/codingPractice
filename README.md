@@ -4,14 +4,25 @@
     - [LinkedList](#linkedlist) 
        - HackerRank
           - [Easy](#hackerrank-easy) 
-            - [HackerRank](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) **Print the Elements of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Print-the-elements-of-a-linked-list.java)
-            - [HackerRank](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) **Insert a Node at the TAIL of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Insert-a-node-at-the-tail-of-a-linked-list.java)
-            - [HackerRank](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) **Insert a Node at the HEAD of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Insert-a-node-at-the-head-of-a-linked-list.java)
-          - [Medium](#hacker-rank-medium) 
        - LeetCode
           - [Easy](#leetcode-easy) 
-            - [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) **237 - Delete Node in a Linked List** [**GitHub** ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/leetCode/easy/problem-easy-237.java)
-          - [Medium](#leetcode-medium) 
+## HackerRank Easy
+
+| Index | Type       | Problem                                                      | Solution                                                     |
+| ----- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 001   | LinkedList | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Print-the-elements-of-a-linked-list.java) |
+| 002   | LinkedList | [Insert a Node at the TAIL of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Insert-a-node-at-the-tail-of-a-linked-list.java) |
+| 003   | LinkedList | [Insert a Node at the HEAD of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Insert-a-node-at-the-head-of-a-linked-list.java) |
+
+
+
+## LeetCode Easy
+
+| Index | Type       | Problem                                                      | Solution                                                     |
+| ----- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 237   | LinkedList | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/leetCode/easy/problem-easy-237.java) |
+
+
 
 ```
 .
