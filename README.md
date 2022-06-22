@@ -4,8 +4,8 @@
     - [LinkedList](#linkedlist) 
        - HackerRank
           - [Easy](#hackerrank-easy) 
-            - [HackerRank](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) **Print the Elements of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/PrintTheElementOfALinkedList.java)
-            - [HackerRank](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) **Insert a Node at the TAIL of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/InsertANodeAtTheTailOfALinkedList.java)
+            - [HackerRank](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) **Print the Elements of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Print-the-elements-of-a-linked-list.java)
+            - [HackerRank](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) **Insert a Node at the TAIL of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Insert-a-node-at-the-tail-of-a-linked-list.java)
             - [HackerRank](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) **Insert a Node at the HEAD of a Linked List** [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Insert-a-node-at-the-head-of-a-linked-list.java)
           - [Medium](#hacker-rank-medium) 
        - LeetCode
@@ -29,8 +29,8 @@
 │       ├── hackerRank
 │       │   └── easy
 │       │       ├── Insert-a-node-at-the-head-of-a-linked-list.java
-│       │       ├── InsertANodeAtTheTailOfALinkedList.java
-│       │       └── PrintTheElementOfALinkedList.java
+│       │       ├── Insert-a-node-at-the-tail-of-a-linked-list.java
+│       │       └── Print-the-elements-of-a-linked-list.java
 │       └── leetCode
 │           └── easy
 │               └── problem-easy-237.java
