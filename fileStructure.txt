@@ -1,0 +1,25 @@
+.
+├── README.md
+├── dataStructure
+│   └── LinkedList
+│       ├── hackerRank
+│       │   └── easy
+│       │       ├── Delete-a-node-from-a-linked-list.java
+│       │       ├── Insert-a-node-at-a-specific-position-in-a-linked-list.java
+│       │       ├── Insert-a-node-at-the-head-of-a-linked-list.java
+│       │       ├── Insert-a-node-at-the-tail-of-a-linked-list.java
+│       │       ├── Print-the-elements-of-a-linked-list.java
+│       │       ├── print-the-elements-of-a-linked-list-in-reverse.java
+│       │       └── reverse-a-linked-list.java
+│       └── leetCode
+│           └── easy
+│               └── problem-easy-237.java
+├── fileStructure.txt
+├── myLinkedList
+│   ├── Main.java
+│   ├── Node.java
+│   └── myLinkedList.java
+└── practice
+    └── Solution.java
+
+8 directories, 14 files
