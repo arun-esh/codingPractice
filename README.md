@@ -17,6 +17,7 @@
 | 005   | LinkedList | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/Delete-a-node-from-a-linked-list.java) |
 | 006   | LinkedList | [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/print-the-elements-of-a-linked-list-in-reverse.java) |
 | 007   | LinkedList | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/reverse-a-linked-list.java) |
+| 008   | LinkedList | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists) | [GitHub ](https://github.com/arun-esh/codingPractice/blob/main/dataStructure/LinkedList/hackerRank/easy/compare-two-linked-lists.java) |
 
 
 
@@ -40,12 +41,12 @@
 │       │       ├── Insert-a-node-at-the-head-of-a-linked-list.java
 │       │       ├── Insert-a-node-at-the-tail-of-a-linked-list.java
 │       │       ├── Print-the-elements-of-a-linked-list.java
+│       │       ├── compare-two-linked-lists.java
 │       │       ├── print-the-elements-of-a-linked-list-in-reverse.java
 │       │       └── reverse-a-linked-list.java
 │       └── leetCode
 │           └── easy
 │               └── problem-easy-237.java
-├── fileStructure.txt
 ├── myLinkedList
 │   ├── Main.java
 │   ├── Node.java
